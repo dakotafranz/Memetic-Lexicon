@@ -1,10 +1,28 @@
 # Memeic Lexicon
 
-A language for the analysis of memes, meme-complexes, and the social movements they spawn.
+A language for the analysis of memes, meme-complexes, and the social movements they spawn. Written by Glenn Grant, Revived by Dakota Franz in 2018
 
-I found this article on the late great Deoxyribonucleic Hyperdimension and decided that it should be given a proper rendering, as it has been so influential to my thinking. Hopefully you have found it useful, or at least provoking.
+## Adding an Entry
 
-If you have thought about this before and wish to contribute to this lexicon send me a letter (dakota.franz@gmail.com) or just add an entry to the provided github page.
+Simply make a Pull Request with your edition to the lexicon like so:
+
+```html
+<h3>
+<strong id="Example-Term">
+Example Term;
+</strong>
+</h3>
+
+<p>
+Description and definition of Example Term. 
+
+<br>
+<h4>
+Submitted by: 'Your Name' on 'January 26th 2018' | Reference: 'list of refrences'
+</h4>
+
+</p>
+```
 
 ヽ(๏∀๏ )ﾉ
 
