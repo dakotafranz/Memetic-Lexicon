@@ -1,4 +1,4 @@
-# Memeic Lexicon
+# Memetic Lexicon
 
 A language for the analysis of memes, meme-complexes, and the social movements they spawn. Written by Glenn Grant in 1990, Revived by Dakota Franz in 2018
 
